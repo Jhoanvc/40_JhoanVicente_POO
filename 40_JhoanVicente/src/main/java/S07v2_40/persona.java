@@ -33,7 +33,7 @@ public class persona {
     }
     
     public String nombre() {
-        return "Jvalerius";
+        return "Jvicente";
     }
     
     //METODO CON PARAMETORS Y ARGUMENTOS
